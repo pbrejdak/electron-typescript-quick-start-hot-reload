@@ -6,7 +6,7 @@ Code is splitted to electron side in `./src/`, and client side `./client`.
 
 >`// frist console`\
 >`// basicly run tsc -w for files in ./src`\
->`npm run serve:electron //`
+>`npm run serve:electron`
 
 >`// second console`\
 >`// starts webpack-dev-server for client side which listning on localhost:8080`\
